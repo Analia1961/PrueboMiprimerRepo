@@ -1,1 +1,1 @@
-console.log("este es mi primer commit");
+console.log("ejercicio1 clase1");
